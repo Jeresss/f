@@ -1,14 +1,28 @@
 package main
 
 import (
+	"database/sql"
 	"log"
+
+	_ "github.com/mattn/go-sqlite3"
 )
+
+type User struct {
+	Id       uint   `json:"id"`
+	Name     string `json:"name"`
+	Email    string `json:"email"`
+	Password []byte `json:"-"`
+}
+
+type DB struct {
+	*sql.DB
+}
 
 // GetUserById returns user with specified id
 //
 // returns nil if user not found
-func (db DB) GetUserById(id int) *User {
-	query, err := db.Query("SELECT * FROM users WHERE id = ?", id)
+func (db DB) GetUserById(Id uint) *User {
+	query, err := db.Query("SELECT * FROM users WHERE id = ?", Id)
 	if err != nil {
 		log.Panic(err)
 	}
