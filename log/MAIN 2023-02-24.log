@@ -1,0 +1,39 @@
+2023-02-24 11:23:55.017 MAIN INF Deleting old log file MAIN 2023-02-20.log with age of 91h22m31.3468842s
+2023-02-24 11:23:55.023 MAIN INF Streaming time started
+2023-02-24 11:23:55.024 MAIN INF Deleting old log file RUN 2023-02-20.log with age of 94h50m59.2251282s
+2023-02-24 11:24:25.053 MAIN INF Serving homepage to the user
+2023-02-24 11:24:33.537 MAIN INF Serving homepage to the user
+2023-02-24 11:24:35.116 MAIN INF Homepage served in10.0609447s
+2023-02-24 11:24:43.551 MAIN INF Homepage served in10.0120049s
+2023-02-24 11:24:47.582 MAIN INF Get time function called from [::1]:55209
+2023-02-24 11:24:47.588 MAIN INF Get time function ended in 0s
+2023-02-24 11:24:50.830 MAIN INF Get time function called from [::1]:55209
+2023-02-24 11:24:50.832 MAIN INF Get time function ended in 0s
+2023-02-24 11:24:53.967 MAIN INF Get time function called from [::1]:55209
+2023-02-24 11:24:53.969 MAIN INF Get time function ended in 0s
+2023-02-24 11:25:13.435 MAIN INF Serving homepage to the user
+2023-02-24 11:25:23.454 MAIN INF Homepage served in10.0166536s
+2023-02-24 11:25:26.530 MAIN INF Get time function called from [::1]:55219
+2023-02-24 11:25:26.531 MAIN INF Get time function ended in 0s
+2023-02-24 11:25:30.920 MAIN INF Get time function called from [::1]:55219
+2023-02-24 11:25:30.925 MAIN INF Get time function ended in 0s
+2023-02-24 11:25:32.097 MAIN INF Get time function called from [::1]:55219
+2023-02-24 11:25:32.100 MAIN INF Get time function ended in 0s
+2023-02-24 11:50:42.692 MAIN INF Serving homepage to the user
+2023-02-24 11:50:45.484 MAIN INF Get time function called from [::1]:61722
+2023-02-24 11:50:45.486 MAIN INF Get time function ended in 0s
+2023-02-24 11:50:49.229 MAIN INF Get time function called from [::1]:61722
+2023-02-24 11:50:49.232 MAIN INF Get time function ended in 0s
+2023-02-24 11:50:52.705 MAIN INF Homepage served in10.0093909s
+2023-02-24 11:50:55.842 MAIN INF Get time function called from [::1]:61728
+2023-02-24 11:50:55.853 MAIN INF Get time function ended in 0s
+2023-02-24 11:56:51.352 MAIN INF Get time function called from [::1]:61871
+2023-02-24 11:56:51.356 MAIN INF Get time function ended in 0s
+2023-02-24 11:56:53.222 MAIN INF Serving homepage to the user
+2023-02-24 11:56:59.235 MAIN INF Get time function called from [::1]:61872
+2023-02-24 11:56:59.236 MAIN INF Get time function ended in 0s
+2023-02-24 11:57:03.244 MAIN INF Homepage served in10.0156776s
+2023-02-24 11:57:06.139 MAIN INF Get time function called from [::1]:61875
+2023-02-24 11:57:06.146 MAIN INF Get time function ended in 0s
+2023-02-24 11:57:06.397 MAIN INF Get time function called from [::1]:61875
+2023-02-24 11:57:06.399 MAIN INF Get time function ended in 508.1µs
